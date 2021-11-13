@@ -1,4 +1,4 @@
-### Hi there 👋
+![Cover](/Images/Github_Cover.gif)
 
 <!--
 **samihann/samihann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
