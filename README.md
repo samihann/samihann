@@ -12,7 +12,6 @@
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 
-<hr/>
 
 ## Github Stats.
 
@@ -30,10 +29,29 @@
 
 * Portfolia Personal Website - https://github.com/samihann/portfolio.git
 
+<br/>
+<hr/>
+<br/>
 
 ## 📫 How To Reach Me
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:svn2998@gmail.com)](mailto:svn2998@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/samihanvn/)](https://www.facebook.com/samihanvn/)
-<a href="https://www.linkedin.com/in/samihann/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-<br/>
+<table>
+    <tbody>
+        <tr>
+            <td>Email</td>
+            <td>svn2998@gmail.com / snande3@uic.edu</td>
+        </tr>
+        <tr>
+            <td>Linkedin</td>
+            <td>https://www.linkedin.com/in/samihann/</td>
+        </tr>
+        <tr>
+            <td>Personal Website</td>
+            <td>https://www.samihann.com/</td>
+        </tr>
+        <tr>
+            <td>Facebook</td>
+            <td>https://www.facebook.com/samihanvn/</td>
+        </tr>
+    </tbody>
+<table>
