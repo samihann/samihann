@@ -20,6 +20,9 @@
   
         ( Demo App: https://pedantic-hawking-48252c.netlify.app )
 
+* Portfolio Personal Website - https://github.com/samihann/portfolio.git
+
+      ( Demo App: https://www.samihann.com/ )
 
 * Streaming Data Pipeline - https://github.com/samihann/akka-kafka-spark_data-pipeline.git
 
@@ -31,7 +34,6 @@
 
 * MapReduce - https://github.com/samihann/mapReduce.git
 
-* Portfolia Personal Website - https://github.com/samihann/portfolio.git
 
 <hr/>
 
