@@ -12,12 +12,14 @@
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 
+<hr />
 
-## Github Stats.
+## Significant Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samihann)]()
+* CloudDash - https://github.com/samihann/clouddash
+  
+        ( Demo App: https://pedantic-hawking-48252c.netlify.app )
 
-## Latest Projects
 
 * Streaming Data Pipeline - https://github.com/samihann/akka-kafka-spark_data-pipeline.git
 
@@ -25,9 +27,17 @@
 
 * Forum - Social Media Application - https://github.com/samihann/forum-social_app.git
 
+      (Demo: https://mystifying-morse-8fa640.netlify.app/ )
+
 * MapReduce - https://github.com/samihann/mapReduce.git
 
 * Portfolia Personal Website - https://github.com/samihann/portfolio.git
+
+<hr/>
+
+## Github Stats.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samihann)]()
 
 <br/>
 <hr/>
