@@ -16,24 +16,39 @@
 
 ## Significant Projects
 
-* CloudDash - https://github.com/samihann/clouddash
-  
-        ( Demo App: https://pedantic-hawking-48252c.netlify.app )
+1. CloudDash - https://github.com/samihann/clouddash
+   * ( Demo App: https://pedantic-hawking-48252c.netlify.app )
+   * Technology Stack:- React, Express, HTML/CSS, Javascript, React-Bootstrap, Python, Microsoft Azure
 
-* Portfolio Personal Website - https://github.com/samihann/portfolio.git
+<br/>
 
-      ( Demo App: https://www.samihann.com/ )
+2. Portfolio Personal Website - https://github.com/samihann/portfolio.git
+   * ( Demo App: https://www.samihann.com/ )
+   * Technology Stack:- HTML, CSS, Javascript
 
-* Streaming Data Pipeline - https://github.com/samihann/akka-kafka-spark_data-pipeline.git
+<br/>
 
-* Cloud Simulations - https://github.com/samihann/cloud-simulations.git
+3. Streaming Data Pipeline - https://github.com/samihann/akka-kafka-spark_data-pipeline.git
+   * Tech Stack:- Scala, Akka Actor, Kafka, Apache Spark, Amazon AWS (EC2, Lambda, S3, EFS) 
 
-* Forum - Social Media Application - https://github.com/samihann/forum-social_app.git
+<br/>
 
-      (Demo: https://mystifying-morse-8fa640.netlify.app/ )
+4. Cloud Simulations - https://github.com/samihann/cloud-simulations.git
+   * Technology Stack:- Scala, Cloudsim Plus
 
-* MapReduce - https://github.com/samihann/mapReduce.git
+<br/>
 
+5. Forum - Social Media Application - https://github.com/samihann/forum-social_app.git
+
+    * (Demo: https://mystifying-morse-8fa640.netlify.app/ )
+    * Technology Stack:- React, HTML/CSS, Express, Javascript, MongoDB (MERN)
+
+<br/>
+
+6. MapReduce - https://github.com/samihann/mapReduce.git
+   * Technology Stack:- Scala, Apache Hadoop, Hortonworks Sandbox, Amazon AWS (EMR, Lambda, S3) 
+
+<br/>
 
 <hr/>
 
