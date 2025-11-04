@@ -207,18 +207,6 @@ Fully responsive portfolio website with modern design, smooth animations, and mo
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="metrics.plugin.language.svg" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="metrics.plugin.isocalendar.svg" alt="Contribution Calendar" />
-</p>
-
----
-
 ## 💼 Professional Experience Highlights
 
 ### University of Illinois at Chicago - Full Stack Developer
