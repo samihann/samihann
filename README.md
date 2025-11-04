@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Developer | Cloud Architecture Enthusiast | DevOps Engineer</h3>
 
 <p align="center">
-  <a href="https://www.samihann.com/"><img src="https://img.shields.io/badge/Portfolio-samihann.com-blue?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://www.samihan.info/"><img src="https://img.shields.io/badge/Portfolio-samihann.com-blue?style=for-the-badge&logo=google-chrome"></a>
   <a href="https://www.linkedin.com/in/samihann/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:svn2998@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"></a>
 </p>
@@ -231,7 +231,7 @@ Fully responsive portfolio website with modern design, smooth animations, and mo
 ## 📫 Let's Connect!
 
 <p align="left">
-  <a href="https://www.samihann.com/">
+  <a href="https://www.samihan.info/">
     <img src="https://img.shields.io/badge/Portfolio-samihann.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/samihann/">
